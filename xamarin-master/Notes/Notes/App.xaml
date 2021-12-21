@@ -9,11 +9,11 @@
         <Thickness x:Key="PageMargin">20</Thickness>
 
         <!-- Colors -->
-        <Color x:Key="AppPrimaryColor">#20B2AA</Color>
-        <Color x:Key="AppBackgroundColor">#66CDAA</Color>
-        <Color x:Key="PrimaryColor">#00BFFF</Color>
-        <Color x:Key="SecondaryColor">#00FFFF</Color>
-        <Color x:Key="TertiaryColor">#40E0D0</Color>
+         <Color x:Key="AppPrimaryColor">#808000</Color>
+        <Color x:Key="AppBackgroundColor">#20B2AA</Color>
+        <Color x:Key="PrimaryColor">#00FF00</Color>
+        <Color x:Key="SecondaryColor">#000000</Color>
+        <Color x:Key="TertiaryColor">#FFC0CB</Color>
 
         <!-- Implicit styles -->
         <Style TargetType="ContentPage"
